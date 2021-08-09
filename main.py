@@ -14,8 +14,8 @@ def print_screen(nodes,min_dist,fastest_route):
 
 if __name__ == '__main__':
     print("\n\nWelcome to Travelling Salesperson Problem Interactive Demo!")
-    # graph = {(1, 2): 10, (2, 3): 35, (3, 1): 15, (3, 4): 30, (1, 4): 20, (2, 4): 25}
-    graph = {(1, 2): 0, (2, 3): 0, (3, 1): 0, (3, 4): 0, (1, 4): 0, (2, 4): 1}
+    graph = {(1, 2): 10, (2, 3): 35, (3, 1): 15, (3, 4): 30, (1, 4): 20, (2, 4): 25}
+    # graph = {(1, 2): 0, (2, 3): 0, (3, 1): 0, (3, 4): 0, (1, 4): 0, (2, 4): 1}
     # starting_point = int(input("Enter your starting point: "))
     # graph = ast.literal_eval(graph)
     starting_point = 1
