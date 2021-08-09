@@ -25,8 +25,8 @@ python3 -m pip install -r requirements.txt
 python3 main.py
 
 If the Python version is lower, the demo should still work, however, the dependencies should be installed manually.
-If pip i3 is not installed, follow admin commands as: 1. sudo apt update  2. sudo apt install python3-pip
-If there is any error in installing requirements.txt file, please consider to install the dependency manually as this
+If pip3 is not installed, follow admin commands as: 1. sudo apt update  2. sudo apt install python3-pip
+If there is any error in installing requirements.txt file, please consider installing the dependency manually as this
 demo is not tested on the ubuntu 20.04.
 
 For any other questions or comments, feel free to reach to: abhivellala@gmail.com
